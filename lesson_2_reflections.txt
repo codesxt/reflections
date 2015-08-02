@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+Some basic configuration and folders are added. It is needed because otherwise I could not access Git functionalities.
+
