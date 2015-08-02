@@ -1,3 +1,6 @@
 What happens when you initialize a repository? Why do you need to do it?
 Some basic configuration and folders are added. It is needed because otherwise I could not access Git functionalities.
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+It is different as it is a logic organization of files to be committed. It allows the user to make modifications before doing a commit.
+
