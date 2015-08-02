@@ -7,3 +7,15 @@ It is different as it is a logic organization of files to be committed. It allow
 How can you use the staging area to make sure you have one commit per logical change?
 Only adding files going to be committed and that are logically related.
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+It would be useful to separate experimental features, fixes, and working versions.
+
+How do the diagrams help you visualize the branch structure?
+They express branches and commits in such a way that the visibility can be appreciated.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+A parent node is added which mixes both branches. It is represented as a node parent to both branches.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+No cons, just pros. It saves tedious work.
+
